@@ -18,14 +18,14 @@ Student, mathematician, and a programmer.
 
 ## Active
 
-— **[Block-parallel matrix multiplication](https://github.com/wintermindset/matrix-parallel-block-mult)**: high perfomance matrix multiplication in C with OpenMP.
-
-— **[TCP based HTTP server](https://github.com/wintermindset/tcp-based-http-server)**: lightweight HTTP server built on top of plain TCP sockets in Java.
+— **[Transaction service](https://github.com/wintermindset/transaction-service)**: Spring Boot-based REST API microservice for processing financial transactions in Java.
 
 
 ## Frozen / on hold
 
-— **[Transaction service](https://github.com/wintermindset/transaction-service)**: Spring Boot-based REST API microservice for processing financial transactions in Java.
+— **[Block-parallel matrix multiplication](https://github.com/wintermindset/matrix-parallel-block-mult)**: high perfomance matrix multiplication in C with OpenMP.
+
+— **[TCP based HTTP server](https://github.com/wintermindset/tcp-based-http-server)**: lightweight HTTP server built on top of plain TCP sockets in Java.
 
 — **[Anti fraud service](https://github.com/wintermindset/anti-fraud-service)**: REST API microservice for real-time evaluation of potentially fraudulent banking transactions in Python.
 
