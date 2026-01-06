@@ -20,6 +20,8 @@ Student, mathematician, and a programmer.
 
 — **[Transaction service](https://github.com/wintermindset/transaction-service)**: Spring Boot-based REST API microservice for processing financial transactions in Java.
 
+— **[Budget manager](https://github.com/wintermindset/budget-manager-springboot)**: Spring Boot REST API for personal budget tracking in Java.
+
 
 ## Frozen / on hold
 
