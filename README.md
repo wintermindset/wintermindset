@@ -18,8 +18,6 @@ Student, mathematician, and a programmer.
 
 ## Active
 
-— **[Transaction service](https://github.com/wintermindset/transaction-service)**: Spring Boot-based REST API microservice for processing financial transactions in Java.
-
 — **[Budget manager](https://github.com/wintermindset/budget-manager-springboot)**: Spring Boot REST API for personal budget tracking in Java.
 
 
@@ -30,6 +28,8 @@ Student, mathematician, and a programmer.
 — **[TCP based HTTP server](https://github.com/wintermindset/tcp-based-http-server)**: lightweight HTTP server built on top of plain TCP sockets in Java.
 
 — **[Anti fraud service](https://github.com/wintermindset/anti-fraud-service)**: REST API microservice for real-time evaluation of potentially fraudulent banking transactions in Python.
+
+— **[Transaction service](https://github.com/wintermindset/transaction-service)**: Spring Boot-based REST API microservice for processing financial transactions in Java.
 
 — **[numkit](https://github.com/wintermindset/numkit)**: numerical methods library in Python.
 
