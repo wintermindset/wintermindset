@@ -16,6 +16,8 @@ Mathematician && programmer.
 
 — **[Transaction service](https://github.com/wintermindset/transaction-service)**: Bank transaction REST microservice built with Java Spring Boot, PostgreSQL, JWT authentication, and transactional integrity guarantees.
 
+— **[Transaction risk service](https://github.com/wintermindset/transaction-risk-service)**: Bank transaction risk REST microservice built with Python FastAPI and scikit-learn models.
+
 
 ## Tools && languages
 
