@@ -1,6 +1,6 @@
 ## WinterMindset
 
-Mathematician && programmer.
+Mathematician & programmer.
 
 
 ## Current focus
@@ -19,7 +19,7 @@ Mathematician && programmer.
 — **[Transaction risk service](https://github.com/wintermindset/transaction-risk-service)**: Bank transaction risk REST microservice built with Python FastAPI and scikit-learn models.
 
 
-## Tools && languages
+## Tools & languages
 
 — **Languages**: Java, C, C++, C#, Python, Assembly.
 
