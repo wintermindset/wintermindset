@@ -18,8 +18,6 @@ Mathematician & programmer.
 
 — **[TCP based HTTP server](https://github.com/wintermindset/tcp-based-http-server)**: Lightweight Java HTTP server using low-level buffered I/O, pipelined request handling, and virtual threads for high concurrency and minimal overhead.
 
-— **[Transaction risk service](https://github.com/wintermindset/transaction-risk-service)**: Bank transaction risk REST microservice built with Python FastAPI and scikit-learn models.
-
 
 ## Tools & languages
 
