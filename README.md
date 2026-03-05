@@ -1,4 +1,4 @@
-# Wintermindset
+# WinterMindSet
 
 
 ## Current focus
