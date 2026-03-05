@@ -1,6 +1,6 @@
 # wintermindset
 
-``` python
+``` plaintext
 while True:
     time += 1
     coffee += 1
