@@ -1,10 +1,10 @@
 # wintermindset
 
-``` plaintext
-repeat until death:
-    math();
-    code();
-    sleep();
+``` python
+while True:
+    time += 1
+    coffee += 1
+    code_lines += 1
 ```
 
 ## Current focus
