@@ -1,7 +1,7 @@
-# wintermindset
+# Wintermindset
 
 
-### Current focus
+## Current focus
 
 — **Backend development** (Java).
 
@@ -10,14 +10,14 @@
 — **Financial technologies** (Python/Java).
 
 
-### Active projects
+## Active projects
 
 — **[Transaction service](https://github.com/wintermindset/transaction-service)**: Bank transaction REST microservice built with Java Spring Boot, PostgreSQL, JWT authentication, and transactional integrity guarantees.
 
 — **[TCP based HTTP server](https://github.com/wintermindset/tcp-based-http-server)**: Lightweight Java HTTP server using low-level buffered I/O, pipelined request handling, and virtual threads for high concurrency and minimal overhead.
 
 
-### Tools & languages
+## Tools & languages
 
 — **Languages**: Java, C, C++, C#, Python, Assembly.
 
