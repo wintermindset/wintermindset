@@ -1,6 +1,6 @@
-# wintermindset
+## wintermindset
 
-math && code equal life
+math and code equal life
 
 ## Current focus
 
