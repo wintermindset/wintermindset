@@ -1,5 +1,12 @@
 # wintermindset
 
+``` plaintext
+repeat until death:
+    math();
+    code();
+    sleep();
+```
+
 ## Current focus
 
 — **Backend development** (Java).
