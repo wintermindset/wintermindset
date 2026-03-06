@@ -28,7 +28,7 @@
 
 — **Languages**: Java, C, C++, C#, Python, Assembly.
 
-— **Build tools**: Maven, CMake, MSBuild, Make.
+— **Build tools**: Maven, Gradle, CMake, MSBuild, Make.
 
 — **Editors & IDEs**: VS Code, Intellij IDEA, Vim, NeoVim.
 
