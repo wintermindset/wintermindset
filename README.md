@@ -4,7 +4,7 @@
 
 — **Distributed Systems**.
 
-— **Backend development**.
+— **Backend Development**.
 
 — **Optimizing and Parallelizing Program Transformations**.
 
@@ -14,7 +14,7 @@
 
 — **Cybernetics**.
 
-— **Financial technologies**.
+— **Financial Technologies**.
 
 
 ## Active projects
