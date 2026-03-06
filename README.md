@@ -1,12 +1,19 @@
 # WinterMindset
 
 — **Theory of Computation and Algorithms**.
+
 — **Distributed Systems**.
+
 — **Backend development**.
+
 — **Optimizing and Parallelizing Program Transformations**.
+
 — **Machine Learning**.
+
 — **Mathematical Problems in Software Development**.
+
 — **Cybernetics**.
+
 — **Financial technologies**.
 
 
