@@ -1,13 +1,13 @@
 # WinterMindset
 
-
-## Current focus
-
-— **Backend development** (Java).
-
-— **Machine learning** (Python).
-
-— **Financial technologies** (Python/Java).
+— **Theory of Computation and Algorithms**.
+— **Distributed Systems**.
+— **Backend development**.
+— **Optimizing and Parallelizing Program Transformations**.
+— **Machine Learning**.
+— **Mathematical Problems in Software Development**.
+— **Cybernetics**.
+— **Financial technologies**.
 
 
 ## Active projects
@@ -17,7 +17,7 @@
 — **[TCP based HTTP server](https://github.com/wintermindset/tcp-based-http-server)**: Lightweight Java HTTP server using low-level buffered I/O, pipelined request handling, and virtual threads for high concurrency and minimal overhead.
 
 
-## Tools & languages
+## Tools & Languages
 
 — **Languages**: Java, C, C++, C#, Python, Assembly.
 
