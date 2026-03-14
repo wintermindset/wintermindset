@@ -21,6 +21,9 @@
 
 — **[Transaction service](https://github.com/wintermindset/transaction-service)**: Bank transaction REST microservice built with Java Spring Boot, PostgreSQL, JWT authentication, and transactional integrity guarantees.
 
+
+## On Hold / Done
+
 — **[TCP based HTTP server](https://github.com/wintermindset/tcp-based-http-server)**: Lightweight Java HTTP server using low-level buffered I/O, pipelined request handling, and virtual threads for high concurrency and minimal overhead.
 
 
