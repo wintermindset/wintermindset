@@ -19,6 +19,8 @@
 
 ## Active projects
 
+— **[Sharding service](https://github.com/wintermindset/sharding-service)**: Spring Boot microservice for sharding index management with observability and load testing.
+
 — **[Transaction service](https://github.com/wintermindset/transaction-service)**: Bank transaction REST microservice built with Java Spring Boot, PostgreSQL, JWT authentication, and transactional integrity guarantees.
 
 
