@@ -21,7 +21,7 @@
 
 — **[Transaction service](https://github.com/wintermindset/transaction-service)**: Bank transaction REST microservice built with Java Spring Boot, PostgreSQL, JWT authentication, and transactional integrity guarantees.
 
-— **[Loan Schedule Service](https://github.com/wintermindset/loan-schedule-service)**: Microservice for annuity & degressive payment schedules, early repayments, multi-rate support, operation rollback, saga orchestration, and full DDD with NullAway-compile-time safety.
+— **[Loan schedule service](https://github.com/wintermindset/loan-schedule-service)**: Microservice for annuity & degressive payment schedules, early repayments, multi-rate support, operation rollback, saga orchestration, and full DDD with NullAway-compile-time safety.
 
 
 ## On Hold / Done
