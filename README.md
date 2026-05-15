@@ -1,20 +1,10 @@
 # WinterMindset
 
-— **Theory of Computation and Algorithms**.
+— **Cybernetics**, **Theory of Computation and Algorithms**, **Optimizing and Parallelizing Program Transformations**, **Mathematical Problems in Software Development**.
 
-— **Distributed Systems**.
+— **Distributed Systems**, **Highload Systems**, **Backend Development**.
 
-— **Backend Development**.
-
-— **Optimizing and Parallelizing Program Transformations**.
-
-— **Machine Learning**.
-
-— **Mathematical Problems in Software Development**.
-
-— **Cybernetics**.
-
-— **Financial Technologies**.
+— **Machine Learning**, **Financial Technologies**.
 
 
 ## Active projects
@@ -39,8 +29,8 @@
 
 — **Editors & IDEs**: VS Code, Intellij IDEA, Vim, NeoVim.
 
-— **Machine learning**: NumPy, PyTorch, scikit-learn.
+— **Machine learning & Data Analysis**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib.
 
-— **Backend & Frameworks**: Spring Boot, PostgreSQL, REST APIs, Docker.
+— **Backend & Frameworks**: Spring, Spring Boot, PostgreSQL, JPA + Hibernate, JDBC, Flyway, Spring Security + JWT, REST APIs.
 
-— **Software development**: UML modeling, design patterns, CI/CD, testing.
+— **Software development**: UML modeling, design patterns, Docker, VCS, CI/CD, testing.
