@@ -9,23 +9,23 @@
 
 ## Active projects
 
-— **[Transaction service](https://github.com/wintermindset/transaction-service)**: Bank transaction REST microservice built with Java Spring Boot, PostgreSQL, JWT authentication, and transactional integrity guarantees.
+— **[Transaction Service](https://github.com/wintermindset/transaction-service)**: Bank transaction REST microservice built with Java Spring Boot, PostgreSQL, JWT authentication, and transactional integrity guarantees.
 
 
 ## On Hold / Done
 
-— **[TCP based HTTP server](https://github.com/wintermindset/tcp-based-http-server)**: Lightweight Java HTTP server using low-level buffered I/O, pipelined request handling, and virtual threads for high concurrency and minimal overhead.
+— **[TCP based HTTP Server](https://github.com/wintermindset/tcp-based-http-server)**: Lightweight Java HTTP server using low-level buffered I/O, pipelined request handling, and virtual threads for high concurrency and minimal overhead.
 
-— **[Sharding service](https://github.com/wintermindset/sharding-service)**: Spring Boot microservice for sharding index management with observability and load testing.
+— **[Sharding Service](https://github.com/wintermindset/sharding-service)**: Spring Boot microservice for sharding index management with observability and load testing.
 
 
 ## Tools & Languages
 
 — **Languages**: Java, Kotlin, C, C++, C#, Python, Assembly, Go.
 
-— **Build tools**: Maven, Gradle, CMake, MSBuild, Make, Ninja.
+— **Build Tools**: Maven, Gradle, CMake, MSBuild, Make, Ninja.
 
-— **Editors & IDEs**: VS Code, Intellij IDEA, Vim, NeoVim.
+— **Editors & IDEs**: VS Code, Intellij IDEA, Vim, NeoVim, Jupyter Notebook.
 
 — **Machine learning & Data Analysis & RecSys**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib, lightfm.
 
