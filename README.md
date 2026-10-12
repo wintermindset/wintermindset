@@ -27,8 +27,8 @@
 
 — **Editors & IDEs**: VS Code, Intellij IDEA, Vim, NeoVim, Jupyter Notebook.
 
-— **Machine learning & Data Analysis & RecSys**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib, lightfm.
+— **Machine Learning & Data Analysis & RecSys**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib, lightfm.
 
 — **Backend & Frameworks**: Microservices, REST APIs, DDD, Spring, Spring Boot, PostgreSQL (Shards + Replicas), Redis (caching), Flyway, JPA + Hibernate, jOOQ, JDBC, Flyway, Spring Security + JWT, Jetty, Jackson, Micrometer, Grafana, Prometheus, ZooKeeper, Docker, Docker Compose, Kafka, Kubernetes, UML modeling, design patterns, VCS, BS, CI/CD, testing.
 
-— **Artificial Intelligence & AI-agents**: orchestration (multi-agent systems), fabrics, MCP, tools, skills, RAG, Crone Agents.
+— **Artificial Intelligence & AI-Agents**: orchestration (multi-agent systems), fabrics, MCP, tools, skills, RAG, Crone Agents.
