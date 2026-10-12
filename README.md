@@ -21,14 +21,14 @@
 
 ## Tools & Languages
 
-— **Languages**: Java, C, C++, C#, Python, Assembly.
+— **Languages**: Java, Kotlin, C, C++, C#, Python, Assembly, Go.
 
-— **Build tools**: Maven, Gradle, CMake, MSBuild, Make.
+— **Build tools**: Maven, Gradle, CMake, MSBuild, Make, Ninja.
 
 — **Editors & IDEs**: VS Code, Intellij IDEA, Vim, NeoVim.
 
-— **Machine learning & Data Analysis**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib.
+— **Machine learning & Data Analysis & RecSys**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib, lightfm.
 
-— **Backend & Frameworks**: Spring, Spring Boot, PostgreSQL, JPA + Hibernate, JDBC, Flyway, Spring Security + JWT, REST APIs.
+— **Backend & Frameworks**: Microservices, REST APIs, DDD, Spring, Spring Boot, PostgreSQL (Shards + Replicas), Redis (caching), Flyway, JPA + Hibernate, jOOQ, JDBC, Flyway, Spring Security + JWT, Jetty, Jackson, Micrometer, Grafana, Prometheus, ZooKeeper, Docker, Docker Compose, Kafka, Kubernetes, UML modeling, design patterns, VCS, BS, CI/CD, testing.
 
-— **Software development**: UML modeling, design patterns, Docker, VCS, CI/CD, testing.
+— **Artificial Intelligence & AI-agents**: orchestration (multi-agent systems), fabrics, MCP, tools, skills, RAG.
