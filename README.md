@@ -31,4 +31,4 @@
 
 — **Backend & Frameworks**: Microservices, REST APIs, DDD, Spring, Spring Boot, PostgreSQL (Shards + Replicas), Redis (caching), Flyway, JPA + Hibernate, jOOQ, JDBC, Flyway, Spring Security + JWT, Jetty, Jackson, Micrometer, Grafana, Prometheus, ZooKeeper, Docker, Docker Compose, Kafka, Kubernetes, UML modeling, design patterns, VCS, BS, CI/CD, testing.
 
-— **Artificial Intelligence & AI-agents**: orchestration (multi-agent systems), fabrics, MCP, tools, skills, RAG.
+— **Artificial Intelligence & AI-agents**: orchestration (multi-agent systems), fabrics, MCP, tools, skills, RAG, Crone Agents.
