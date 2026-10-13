@@ -2,7 +2,7 @@
 
 — **Cybernetics**, **Discrete Modeling**, **Theory of Computation and Algorithms**, **Optimizing and Parallelizing Program Transformations**, **Mathematical Problems in Software Development**.
 
-— **HighLoad Distributed Systems**, **Backend Development**, **Parallel Programming**, **Embedded Programming**, **Machine Learning**.
+— **HighLoad Distributed Systems**, **Backend Development**, **Parallel Programming**, **Embedded Programming**, **Machine Learning**, **Game Development**.
 
 
 ## Active projects
