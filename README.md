@@ -21,12 +21,12 @@
 
 — **Languages**: Java, Kotlin, C, C++, C#, Python, Assembly, Go.
 
-— **Build Tools**: Maven, Gradle, CMake, MSBuild, Make, Ninja.
-
-— **Editors & IDEs**: VS Code, Intellij IDEA, Vim, NeoVim, Jupyter Notebook.
+— **Tools & IDEs**: Maven, Gradle, CMake, MSBuild, Make, Ninja, Git, VS Code, Intellij IDEA, Vim, NeoVim, Jupyter Notebook.
 
 — **Machine Learning & Data Analysis & RecSys**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib, lightfm.
 
-— **Backend & Frameworks**: Microservices, REST APIs, DDD, Spring, Spring Boot, PostgreSQL (Shards + Replicas), Redis (caching), Flyway, JPA + Hibernate, jOOQ, JDBC, Flyway, Spring Security + JWT, Jetty, Jackson, Micrometer, Grafana, Prometheus, ZooKeeper, Docker, Docker Compose, Kafka, Kubernetes, UML modeling, design patterns, VCS, BS, CI/CD, testing.
+— **Practices**: Microservices, REST APIs, DDD, UML Modeling, Design Patterns, CI/CD, Testing.
 
-— **Artificial Intelligence & AI-Agents**: orchestration (multi-agent systems), fabrics, MCP, tools, skills, RAG, Crone Agents.
+— **Backend & Frameworks**: Spring, Spring Boot, PostgreSQL (Sharding + Replication), Redis (caching), Flyway, JPA + Hibernate, jOOQ, JDBC, Spring Security + JWT, Jetty, Jackson, Micrometer, Grafana, Prometheus, ZooKeeper, Docker, Docker Compose, Kafka, Kubernetes.
+
+— **Artificial Intelligence & Agents**: orchestration (multi-agent systems), fabrics, MCP, tools, skills, RAG, Crone Agents.
