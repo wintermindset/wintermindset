@@ -1,10 +1,8 @@
-# WinterMindset
+# wintermindset
 
-— **Cybernetics**, **Theory of Computation and Algorithms**, **Optimizing and Parallelizing Program Transformations**, **Mathematical Problems in Software Development**.
+— **Cybernetics**, **Discrete Modeling**, **Theory of Computation and Algorithms**, **Optimizing and Parallelizing Program Transformations**, **Mathematical Problems in Software Development**.
 
-— **Distributed Systems**, **Highload Systems**, **Backend Development**.
-
-— **Machine Learning**, **Financial Technologies**.
+— **HighLoad Distributed Systems**, **Backend Development**, **Parallel Programming**, **Embedded Programming**, **Machine Learning**.
 
 
 ## Active projects
