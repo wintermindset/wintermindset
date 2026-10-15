@@ -27,6 +27,6 @@
 
 — **Practices**: Microservices, REST APIs, DDD, UML Modeling, Design Patterns, CI/CD, Testing.
 
-— **Backend & Frameworks**: Spring, Spring Boot, PostgreSQL (Sharding + Replication), Redis (caching), Flyway, JPA + Hibernate, jOOQ, JDBC, Spring Security + JWT, Jetty, Jackson, Micrometer, Grafana, Prometheus, ZooKeeper, Docker, Docker Compose, Kafka, Kubernetes.
+— **Backend & Frameworks**: Spring, Spring Boot, PostgreSQL (Sharding + Replication), Redis (caching), Flyway, JPA + Hibernate, jOOQ, JUnit, Mockito, Lombok, JDBC, Spring Security + JWT, Jetty, Jackson, Micrometer, Grafana, Prometheus, ZooKeeper, Docker, Docker Compose, Kafka, Kubernetes.
 
 — **Artificial Intelligence & Agents**: Orchestration (Multi-Agent Systems), Fabrics, MCP, Tools, Skills, RAG, Crone Agents.
