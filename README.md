@@ -23,7 +23,7 @@
 
 — **Tools & IDEs**: Maven, Gradle, CMake, MSBuild, Make, Ninja, Git, VS Code, Intellij IDEA, Vim, NeoVim, Jupyter Notebook.
 
-— **Machine Learning & Data Analysis & RecSys**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib, lightfm.
+— **Machine Learning & Data Analysis & RecSys**: numpy, sympy, pytorch, scikit-learn, pandas, matplotlib, lightfm, matlab, mapple.
 
 — **Practices**: Microservices, REST APIs, DDD, UML Modeling, Design Patterns, CI/CD, Testing.
 
